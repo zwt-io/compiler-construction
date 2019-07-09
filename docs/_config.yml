@@ -23,7 +23,7 @@ github_username:  gdouzwt
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-slate
+theme: jekyll-theme-architect
 plugins:
   - jekyll-feed
 RSS: false
